@@ -1,4 +1,4 @@
-#CPP_MIDI_Analysis-Play
+# CPP_MIDI_Analysis-Play
 
 ​ **——使用 C++ 在 Windows 下 Visual Stduio2019 中写的一个MIDI文件的实时解析和播放**
 
@@ -25,10 +25,12 @@ Visual Studio2019下的C/C++桌面开发环境配置在这我就不多说了，�
 
 
 ## 参考文献
-MIDI文件格式解析https://www.jianshu.com/p/59d74800b43b
-MIDI tick与绝对时间的换算
+**MIDI文件格式解析**
+https://www.jianshu.com/p/59d74800b43b
+**MIDI tick与绝对时间的换算**
 https://wenku.baidu.com/view/9b6871f7f90f76c661371ac4.html
 （百度文库的免费文档，真的是一股清流啊）
-windows的MIDI-API调用
+**windows的MIDI-API调用**
 https://blog.csdn.net/qq_39096769/article/details/105187079
 
+## 其他的后续再补充，有用的话记得点星星~
